@@ -4,3 +4,6 @@
 [submodule "api/account-service"]
 	path = api/account-service
 	url = https://github.com/insper-rafaken/account-service.git
+[submodule "api/gateway-service"]
+	path = api/gateway-service
+	url = https://github.com/insper-rafaken/gateway.git
