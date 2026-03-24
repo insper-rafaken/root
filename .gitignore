@@ -206,17 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Docker volumes
 volume/
-api/volume/
-api/volume/db/
-
-# Postgres data
-pgdata/
-*.pid
-
-# Docker override
-docker-data/
-
-# General volumes
-**/volume/

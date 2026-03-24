@@ -7,3 +7,12 @@
 [submodule "api/gateway-service"]
 	path = api/gateway-service
 	url = https://github.com/insper-rafaken/gateway.git
+[submodule "api/auth-service"]
+	path = api/auth-service
+	url = https://github.com/insper-rafaken/auth.git
+[submodule "api/auth"]
+	path = api/auth
+	url = https://github.com/insper-rafaken/auth.git
+[submodule "web/web/site"]
+	path = web/web/site
+	url = https://github.com/rafa-ken/site.git
